@@ -9,6 +9,15 @@
       "email": "contato@carlosencine.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "App\\Classes\\": "App/classes",
+      "App\\Contracts\\": "App/contracts",
+      "App\\Controllers\\": "App/controllers",
+      "App\\Models\\": "App/models",
+      "App\\Services\\": "App/services"
+    }
+  },
   "require-dev": {
     "symfony/var-dumper": "*"
   },
