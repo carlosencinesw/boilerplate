@@ -9,7 +9,7 @@ Novas dependências serão adicionadas ao longo do tempo
 
 ## INSTALAÇÃO
 
-basta usar o comando `composer install` na raiz onde encointra-se o arquivo **composer.json**
+basta usar o comando `composer install` na raiz onde encontra-se o arquivo **composer.json**
 
 ## COMO CONTRIBUIR
 Sua contribuição é muito bem vinda, basta dar um fork neste projeto e submeter suas pull requests 
